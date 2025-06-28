@@ -230,7 +230,6 @@
     },
     {
       "id": 2,
-      "name": "Mahasiswa Contoh",
       "email": "mahasiswa@mail.com",
       "password": "mahasiswa123",
       "role": "mahasiswa",
